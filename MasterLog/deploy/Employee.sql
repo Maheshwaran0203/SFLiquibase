@@ -1,6 +1,3 @@
-USE DATABASE LIQUIBASE_DEMO_DB;
-USE SCHEMA liquibase;
-
 CREATE TABLE liquibase.employee (
     EmpID int,
     LastName varchar(255),
