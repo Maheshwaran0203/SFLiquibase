@@ -1,4 +1,4 @@
-CREATE TABLE employee (
+CREATE TABLE liquibase.employee (
     EmpID int,
     LastName varchar(255),
     FirstName varchar(255),
